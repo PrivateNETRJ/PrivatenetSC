@@ -28,7 +28,7 @@
       "Name": "SERVIDOR (BR01)",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "proxy.privatenetrj.tk"
+      "ServerIP": "proxy.privatenetrj.tk",
       "CheckUser": "http://20.226.42.233:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
