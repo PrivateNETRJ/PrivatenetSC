@@ -1,12 +1,11 @@
-
 {
   "Version": "1.0.1",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Config_NETRJ",
-  "Sms": "https://raw.githubusercontent.com/Claudia3333iy/atualizacao/main/notificacao",
+  "Sms": "",
   "EmailFeedback": "@gmail.com",
-  "UrlContato": "https://t.me/NETOLLY",
-  "UrlTermos": "https://raw.githubusercontent.com/Claudia3333iy/atualizacao/main/termosdeuso.html",
+  "UrlContato": "",
+  "UrlTermos": "",
   "Udp": [
     {
       "Porta": "7100"
