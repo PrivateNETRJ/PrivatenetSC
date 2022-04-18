@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Config_NETRJ",
   "Sms": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Notificacao",
@@ -37,11 +37,11 @@
   ],
   "Networks": [
    {
-      "Name": "VIVO | TIM | CLARO | OI ",
-      "FLAG": "vivo",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "Name": "CLARO",
+      "FLAG": "claro",
+      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "",
       "ProxyIP": "mobilidade.cloud.caixa.gov.br",
       "ProxyPort": "80",
       "Info": "Proxy"
