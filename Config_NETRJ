@@ -2,7 +2,7 @@
   "Version": "1.0.1",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Config_NETRJ",
-  "Sms": "",
+  "Sms": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Notificacao",
   "EmailFeedback": "@gmail.com",
   "UrlContato": "",
   "UrlTermos": "",
