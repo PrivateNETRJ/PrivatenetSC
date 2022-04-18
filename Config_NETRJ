@@ -5,7 +5,7 @@
   "Sms": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Notificacao",
   "EmailFeedback": "@gmail.com",
   "UrlContato": "",
-  "UrlTermos": "",
+  "UrlTermos": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Termosdeuso",
   "Udp": [
     {
       "Porta": "7100"
