@@ -29,7 +29,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "proxy.privatenetrj.tk",
-      "CheckUser": "http://20.226.42.233:5454/checkUser",
+      "CheckUser": "proxy.privatenetrj.tk:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -44,6 +44,16 @@
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "",
       "ProxyIP": "mobilidade.cloud.caixa.gov.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "CLARO - 2",
+      "FLAG": "claro",
+      "Payload": "GET ws://parceirosclaro.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "parceirosclaro.com.br",
+      "TlsIP": "104.21.82.242",
+      "ProxyIP": "104.21.82.242",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -99,3 +109,4 @@
     }
   ]
 }
+
