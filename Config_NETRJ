@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Config_NETRJ",
   "Sms": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Notificacao",
@@ -92,9 +92,9 @@
       "Name": "TIM - VIVO",
       "FLAG": "tim",
       "Payload": "GET wss://cdnjs.cloudflare.com HTTP/1.1[crlf]Host: [app_host] [crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] GET [host_port][protocol][crlf][crlf]",
-      "SNI": "",
+      "SNI": "cdnjs.cloudflare.com",
       "TlsIP": "",
-      "ProxyIP": "104.16.18.94",
+      "ProxyIP": "104.16.19.94",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
