@@ -1,10 +1,11 @@
 {
-  "Version": "1.1.6",
+  "Version": "1.1.7",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Config_NETRJ",
   "Sms": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Notificacao",
   "EmailFeedback": "@gmail.com",
   "UrlContato": "",
+  "CheckUser":"true",
   "UrlTermos": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Termosdeuso",
   "Udp": [
     {
@@ -29,7 +30,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "proxy.privatenetrj.tk",
-      "CheckUser": "200.98.113.146:5000/checkUser",
+      "CheckUser": "http://200.98.113.146:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
