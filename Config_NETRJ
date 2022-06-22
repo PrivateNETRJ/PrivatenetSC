@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.5",
+  "Version": "1.1.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Config_NETRJ",
   "Sms": "https://raw.githubusercontent.com/PrivateNETRJ/PrivatenetSC/main/Notificacao",
@@ -29,7 +29,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "proxy.privatenetrj.tk",
-      "CheckUser": "http://200.98.113.146:5000/checkUser",
+      "CheckUser": "200.98.113.146:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
