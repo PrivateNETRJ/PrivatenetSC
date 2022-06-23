@@ -13,7 +13,7 @@
       "Name": "SERVIDOR PrivateNET",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "rocketnet.cf",
+      "ServerIP": "proxy.privatenetrj.tk",
       "CheckUser": "http://200.98.113.146:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
