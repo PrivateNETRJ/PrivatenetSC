@@ -58,6 +58,17 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
+
+    {
+      "Name": "Vivo - novo",
+      "FLAG": "vivo",
+      "Payload": "GET wss://support.deezer.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "support.deezer.com",
+      "TlsIP": "104.24.10.16",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
     {
       "Name": "TIM SPEED",
       "FLAG": "tim",
